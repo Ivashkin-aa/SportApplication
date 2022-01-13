@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sport Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="premier_league">Premier League</string>
+    <string name="to_more_information">To more Information</string>
+    <string name="stats">Stats</string>
+    <string name="home_team">Home team</string>
+    <string name="_0">0</string>
+    <string name="away_team">Away team</string>
+    <string name="_0">0</string>
+    <string name="date">Date</string>
+    <string name="hours">Hours</string>
+</resources>
